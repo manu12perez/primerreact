@@ -7,9 +7,9 @@ function Metodos() {
   return (
     <div>
       <h1>Ejemplo métodos React</h1>
-      <h2>{ejemplo}</h2>
-      <button onClick={() => cambiarVariable()}>Cambiar valor Ejemplo</button>
-      {/* {mostrarMensaje()} */}
+      {/* <h2>{ejemplo}</h2> */}
+      {/* <button onClick={() => cambiarVariable()}>Cambiar valor Ejemplo</button> */}
+      {mostrarMensaje()}
       <button onClick={() => mostrarMensaje()}>Pulsar para algo...</button>
     </div>
   );

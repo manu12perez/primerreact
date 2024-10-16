@@ -11,8 +11,8 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     {/* <Saludo nombre="Lucía" edad="19" />
-    <Saludo nombre="Paco" edad="15" />
-    <Metodos /> */}
+    <Saludo nombre="Paco" edad="15" /> */}
+    {/* <Metodos /> */}
     <DobleNumero />
     {/* <App />     */}
   </React.StrictMode>
